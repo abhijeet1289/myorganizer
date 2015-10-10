@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="sky_blue">#B4cde6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal">#007070</color>
+    <color name="inc_exp_selected">#99CCCC</color>
+    
+    
+    <color name="inc_exp_normal">#669999</color>
+    
+    
+</resources>
